@@ -1,3 +1,4 @@
+/** Used to validate calender fields **/
 $( function($scope) {
 	    $( "#dateOfBirth" ).datepicker({
 	      changeMonth: true,
