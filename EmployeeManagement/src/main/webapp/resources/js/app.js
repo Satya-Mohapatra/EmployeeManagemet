@@ -1,4 +1,4 @@
-/** Angular Controller *//
+/** Angular Controller **//
 var app = angular.module('myApp', ['ngResource']);
 
 app.factory('Employee', ['$resource', function($resource) {
