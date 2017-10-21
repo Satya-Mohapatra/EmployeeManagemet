@@ -7,6 +7,8 @@ import org.springframework.stereotype.Service;
 
 import com.employee.dao.EmployeeDao;
 import com.employee.entity.Employee;
+
+/**service class **/
 @Service
 public class EmployeeService implements EmployeeServiceImpl {
 	@Autowired
